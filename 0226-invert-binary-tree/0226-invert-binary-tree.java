@@ -16,18 +16,37 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
 
-        // base case
+        // base case 
         if(root==null){
             return null;
         }
 
-        TreeNode temp=root.left;
-        root.left=root.right;
-        root.right=temp;
+        Queue<TreeNode> q=new LinkedList<>();
+        q.offer(root);
 
-        invertTree(root.left);
-        invertTree(root.right);
-        
+        while(!q.isEmpty()){
+
+            TreeNode current=q.poll();
+
+            // swap childern 
+            TreeNode temp=current.left;
+            current.left=current.right;
+            current.right=temp;
+
+            // add left child
+            if(current.left!=null){
+                q.offer(current.left);
+            }
+
+            // add right child
+            if(current.right!=null){
+                q.offer(current.right);
+            }
+        }
+
         return root;
     }
 }
+
+
+// Time : O(n)........S:O(n)
