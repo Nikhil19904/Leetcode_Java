@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0199-binary-tree-right-side-view) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0199-binary-tree-right-side-view) |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
