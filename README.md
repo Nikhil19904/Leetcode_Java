@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1544-make-the-string-great) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
