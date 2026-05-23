@@ -1,19 +1,19 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
 
-        // reverse string 
         String rev=new StringBuilder(s).reverse().toString();
 
         int n=s.length();
-
+        int m =rev.length();
+    
         // dp array
-        int[][]dp=new int[n][n];
+        int[][]dp=new int[n][m];
 
-        for(int[]row:dp){
-            Arrays.fill(row,-1);
+        // initialized with -1
+        for(int[] row:dp){
+           Arrays.fill(row,-1);
         }
 
-        // apply LCS recusrion
         return solve(s,rev,0,0,dp);
         
     }
@@ -21,11 +21,11 @@ class Solution {
     private int solve(String s1,String s2,int i,int j,int[][]dp){
 
         // base case
-        if(i==s1.length() || j==s2.length()){
+        if(i==s1.length()||j==s2.length()){
             return 0;
         }
 
-        // already computed 
+        // already computed
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
@@ -35,8 +35,6 @@ class Solution {
             return dp[i][j]=1+solve(s1,s2,i+1,j+1,dp);
         }
 
-        // chracters don't match
-        return dp[i][j]=Math.max(solve(s1,s2,i+1,j,dp),
-                       solve(s1,s2,i,j+1,dp));
+        return dp[i][j]=Math.max(solve(s1,s2,i+1,j,dp),solve(s1,s2,i,j+1,dp));
     }
 }
