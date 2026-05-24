@@ -73,6 +73,34 @@ class Solution {
         return dp[i][buy] = result;
     }
 
+    // tabulation code
+
+    public int solveTab(int[] prices) {
+
+        int n = prices.length;
+
+        int[][] dp = new int[n + 1][2];
+
+        // base case already 0
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            // can buy
+            dp[i][1] = Math.max(
+                -prices[i] + dp[i + 1][0],
+                dp[i + 1][1]
+            );
+
+            // holding stock
+            dp[i][0] = Math.max(
+                prices[i] + dp[i + 1][1],
+                dp[i + 1][0]
+            );
+        }
+
+        return dp[0][1];
+    }
+
 
 
     public int maxProfit(int[] prices) {
@@ -86,7 +114,9 @@ class Solution {
             Arrays.fill(row,-1);
         }
 
-        return solveMemo(0,1,prices);
+        // return solveMemo(0,1,prices);
+
+        return solveTab(prices);
 
         // return solveRec(0,1,prices);
         
