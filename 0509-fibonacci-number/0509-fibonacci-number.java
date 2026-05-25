@@ -16,6 +16,10 @@ class Solution {
             return 1;
         }
 
-        return solve(n-1)+solve(n-2);
+        int step1=solve(n-1);
+
+        int step2=solve(n-2);
+
+        return step1+step2;
     }
 }
