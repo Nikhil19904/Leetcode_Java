@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Monotonic Stack
@@ -187,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
