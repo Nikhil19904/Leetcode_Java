@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
