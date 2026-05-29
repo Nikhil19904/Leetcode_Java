@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
