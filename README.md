@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -124,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0516-longest-palindromic-subsequence) |
@@ -230,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
