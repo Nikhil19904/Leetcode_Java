@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3161-block-placement-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
