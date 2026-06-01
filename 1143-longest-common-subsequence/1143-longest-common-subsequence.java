@@ -4,7 +4,8 @@ class Solution {
         int n=text1.length();
         int m=text2.length();
 
-        int [][]dp=new int[n][m];
+        // dp array
+        int[][]dp=new int[n][m];
 
         for(int[]row:dp){
             Arrays.fill(row,-1);
@@ -25,13 +26,12 @@ class Solution {
             return dp[i][j];
         }
 
-        // chracters match
+        // characters match
         if(s1.charAt(i)==s2.charAt(j)){
-            return 1+solve(s1,s2,i+1,j+1,dp);
+            return dp[i][j]=1 + solve(s1,s2,i+1,j+1,dp);
         }
 
-        // not match
+        // characeters don't match
         return dp[i][j]=Math.max(solve(s1,s2,i+1,j,dp),solve(s1,s2,i,j+1,dp));
-
     }
 }
