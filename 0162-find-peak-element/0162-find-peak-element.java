@@ -1,21 +1,22 @@
 class Solution {
     public int findPeakElement(int[] nums) {
+        
+        int low=0;
+        int high=nums.length-1;
 
-        int n = nums.length;
+        while(low<high){
+            int mid=low+(high-low)/2;
 
-        for (int i = 0; i < n; i++) {
+            // increasing slope
+            if(nums[mid]<nums[mid+1]){
+                low=mid+1;
+            }
 
-            boolean leftGreater =
-                    (i == 0) || (nums[i] > nums[i - 1]);
-
-            boolean rightGreater =
-                    (i == n - 1) || (nums[i] > nums[i + 1]);
-
-            if (leftGreater && rightGreater) {
-                return i;
+            // decreasing slope
+            else{
+                high=mid;
             }
         }
-
-        return -1;
+        return low;
     }
 }
