@@ -1,69 +1,58 @@
 class Solution {
-    int[][] dp;
 
     public boolean canPartition(int[] nums) {
 
-       int sum = 0;
+        int totalSum = 0;
 
-        // total sum
-        for (int x : nums) {
-            sum += x;
+        for (int num : nums) {
+            totalSum += num;
         }
 
-        // odd sum cannot be divided equally
-        if (sum % 2 != 0) {
+        // Odd sum can't be partitioned equally
+        if (totalSum % 2 != 0) {
             return false;
         }
 
-        int target = sum / 2;
+        int target = totalSum / 2;
 
-        int n = nums.length;
+        Boolean[][] dp = new Boolean[nums.length][target + 1];
 
-        // dp[i][target]
-        dp = new int[n][target + 1];
-
-        // initialize with -1
-        for (int[] row : dp) {
-            java.util.Arrays.fill(row, -1);
-        }
-
-        return solve(0, target, nums);
+        return solve(nums, 0, target, dp);
     }
 
-    public boolean solve(int i,int target, int[]nums){
+    private boolean solve(int[] nums,
+                          int i,
+                          int target,
+                          Boolean[][] dp) {
 
-        // subset found
-        if(target==0){
+        // Base Case
+        if (target == 0) {
             return true;
         }
 
-        // reached end
-        if(i==nums.length){
+        if (i == nums.length) {
             return false;
         }
 
-        // already computed
-        if(dp[i][target]!=-1){
-            return dp[i][target]==1;
+        // Already Computed
+        if (dp[i][target] != null) {
+            return dp[i][target];
         }
 
-        // option-1: not pick
-        boolean notPick=solve(i+1,target,nums);
+        boolean pick = false;
 
-        // option-2: pick
-        boolean pick=false;
-
-        if(nums[i]<=target){
-            pick=solve(i+1,target-nums[i],nums);
+        if (nums[i] <= target) {
+            pick = solve(nums,
+                         i + 1,
+                         target - nums[i],
+                         dp);
         }
 
-         boolean ans = pick || notPick;
+        boolean notPick = solve(nums,
+                                i + 1,
+                                target,
+                                dp);
 
-        // store result
-        dp[i][target] = ans ? 1 : 0;
-
-        return ans;
-
-
+        return dp[i][target] = pick || notPick;
     }
 }
