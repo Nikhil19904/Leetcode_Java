@@ -2,27 +2,32 @@ class Solution {
 
     public int findTargetSumWays(int[] nums, int target) {
 
-        return solve(0, 0, nums, target);
+        return solve(nums, 0, 0, target);
     }
 
-    public int solve(int i, int sum, int[] nums, int target) {
+    private int solve(int[] nums, int i, int currentSum, int target) {
 
-        // all elements used
+        // Base Case
         if (i == nums.length) {
 
-            // valid expression formed
-            if (sum == target) {
+            if (currentSum == target) {
                 return 1;
             }
 
             return 0;
         }
 
-        // choose +
-        int plus = solve(i + 1, sum + nums[i], nums, target);
+        // Put '+'
+        int plus = solve(nums,
+                         i + 1,
+                         currentSum + nums[i],
+                         target);
 
-        // choose -
-        int minus = solve(i + 1, sum - nums[i], nums, target);
+        // Put '-'
+        int minus = solve(nums,
+                          i + 1,
+                          currentSum - nums[i],
+                          target);
 
         return plus + minus;
     }
