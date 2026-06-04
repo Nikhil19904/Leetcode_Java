@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3161-block-placement-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
