@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0704-binary-search) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
+| [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0647-palindromic-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
