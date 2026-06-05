@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0879-profitable-schemes) |
 | [1035-uncrossed-lines](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0879-profitable-schemes) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1035-uncrossed-lines) |
