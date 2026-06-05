@@ -1,40 +1,42 @@
-import java.util.Arrays;
-
 class Solution {
 
     public int coinChange(int[] coins, int amount) {
 
-        int[] dp = new int[amount + 1];
+        int n=coins.length;
 
-        Arrays.fill(dp, -1);
+        int[][]dp=new int[n][amount+1];
 
-        int ans = solve(coins, amount, dp);
-
-        return ans >= 1000000000 ? -1 : ans;
-    }
-
-    private int solve(int[] coins, int amount, int[] dp) {
-
-        // base cases
-        if (amount == 0)
-            return 0;
-
-        if (amount < 0)
-            return 1000000000;
-
-        // already computed
-        if (dp[amount] != -1)
-            return dp[amount];
-
-        int minCoins = 1000000000;
-
-        for (int coin : coins) {
-
-            int res = solve(coins, amount - coin, dp);
-
-            minCoins = Math.min(minCoins, 1 + res);
+        for(int[]row:dp){
+            Arrays.fill(row,-1);
         }
 
-        return dp[amount] = minCoins;
+        int ans = solve(0, amount, coins,dp);
+
+        return (ans >= (int)1e9) ? -1 : ans;
+    }
+
+    private int solve(int i, int amount, int[] coins,int[][]dp) {
+
+        // Base Case
+        if (amount == 0) return 0;
+
+        if (i == coins.length) return (int)1e9;
+
+        // already computed
+        if(dp[i][amount]!=-1){
+            return dp[i][amount];
+        }
+
+        // Not Pick
+        int notPick = solve(i + 1, amount, coins,dp);
+
+        // Pick
+        int pick = (int)1e9;
+
+        if (coins[i] <= amount) {
+            pick = 1 + solve(i, amount - coins[i], coins,dp);
+        }
+
+        return dp[i][amount]=Math.min(pick, notPick);
     }
 }
