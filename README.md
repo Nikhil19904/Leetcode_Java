@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
