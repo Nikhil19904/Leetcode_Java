@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
