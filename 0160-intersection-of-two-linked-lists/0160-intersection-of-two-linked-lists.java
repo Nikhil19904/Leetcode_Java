@@ -11,9 +11,9 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-
-        int lenA=getLength(headA);
-        int lenB=getLength(headB);
+        
+        int lenA=findLen(headA);
+        int lenB=findLen(headB);
 
         ListNode pA=headA;
         ListNode pB=headB;
@@ -33,18 +33,17 @@ public class Solution {
             }
         }
 
-        
-     // step:2 move together
-            while(pA!=pB){
-                pA=pA.next;
-                pB=pB.next;
-            }
+        // step-2 move together
+        while(pA!=pB){
+            pA=pA.next;
+            pB=pB.next;
+        }
 
-            return pA;  //intersection node or null
-        
+        return pA; //intersection node or null
+
     }
 
-    private int getLength(ListNode head){
+    private int findLen(ListNode head){
         int length=0;
         ListNode temp=head;
 
