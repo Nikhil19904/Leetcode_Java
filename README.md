@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
@@ -383,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
