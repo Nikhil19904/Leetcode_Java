@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0879-profitable-schemes) |
+| [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0879-profitable-schemes) |
+| [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1035-uncrossed-lines) |
@@ -388,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
