@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0279-perfect-squares) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
