@@ -1,19 +1,20 @@
 class Solution {
     public int uniquePaths(int m, int n) {
 
-        int[][]dp=new int[m][n];
+        int [][]dp=new int[m][n];
 
-        for(int i=0;i<m;i++){
-            Arrays.fill(dp[i],-1);
+        for(int[]row:dp){
+            Arrays.fill(row,-1);
         }
+
         return solve(0,0,m,n,dp);
     }
 
-    public int solve(int i,int j,int m, int n,int[][]dp){
+    private int solve(int i,int j,int m,int n,int [][]dp){
 
         // destination reached
         if(i==m-1 && j==n-1){
-             return 1;
+            return 1;
         }
 
         // out of bounds
