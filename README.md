@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1463-cherry-pickup-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
