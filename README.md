@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
