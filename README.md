@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
