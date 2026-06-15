@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0115-distinct-subsequences) |
+| [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0583-delete-operation-for-two-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3093-longest-common-suffix-queries) |
 ## Divide and Conquer
@@ -307,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0148-sort-list) |
+| [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2126-destroying-asteroids) |
