@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0516-longest-palindromic-subsequence) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0647-palindromic-substrings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0730-count-different-palindromic-subsequences) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0518-coin-change-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0704-binary-search) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0148-sort-list) |
 | [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2126-destroying-asteroids) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
