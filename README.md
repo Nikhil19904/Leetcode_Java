@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0647-palindromic-substrings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0730-count-different-palindromic-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0940-distinct-subsequences-ii) |
+| [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
 | [1092-shortest-common-supersequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
+| [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
 ## Database
 |  |
 | ------- |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
