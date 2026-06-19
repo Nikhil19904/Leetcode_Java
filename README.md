@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0115-distinct-subsequences) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0516-longest-palindromic-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0300-longest-increasing-subsequence) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -435,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
