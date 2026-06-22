@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
 | [1092-shortest-common-supersequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1544-make-the-string-great) |
 | [1871-jump-game-vii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1871-jump-game-vii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1189-maximum-number-of-balloons) |
 ## Counting Sort
 |  |
 | ------- |
