@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0300-longest-increasing-subsequence) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0486-predict-the-winner) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Merge Sort
 |  |
@@ -477,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1833-maximum-ice-cream-bars) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
