@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0148-sort-list) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0148-sort-list) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
