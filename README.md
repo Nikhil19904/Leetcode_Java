@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1544-make-the-string-great) |
 | [1871-jump-game-vii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
