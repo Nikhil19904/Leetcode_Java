@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1544-make-the-string-great) |
 | [1871-jump-game-vii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0740-delete-and-earn) |
 | [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
