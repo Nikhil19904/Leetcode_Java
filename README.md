@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0449-serialize-and-deserialize-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -486,10 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
 |  |
@@ -512,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
