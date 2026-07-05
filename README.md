@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1049-last-stone-weight-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1463-cherry-pickup-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1406-stone-game-iii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0931-minimum-falling-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
