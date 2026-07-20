@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0730-count-different-palindromic-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1079-letter-tile-possibilities) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1189-maximum-number-of-balloons) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2126-destroying-asteroids) |
