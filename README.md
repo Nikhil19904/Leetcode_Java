@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1833-maximum-ice-cream-bars) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nikhil19904/Leetcode_Java/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil19904/Leetcode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nikhil19904/Leetcode_Java/tree/master/3691-maximum-total-subarray-value-ii) |
