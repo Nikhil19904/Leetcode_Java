@@ -1,26 +1,16 @@
 class Solution {
-    public boolean predictTheWinner(int[] nums) {
+    public boolean predictTheWinner(int[] A) {
+        int n = A.length;
+        if ((n & 1) == 0) return true;
 
-        int diff=solve(nums,0,nums.length-1);
+        int[] dp = new int[n];
 
-        return diff>=0;
-        
-    }
-
-    private int solve(int[]nums,int i,int j){
-
-        // base case
-        if(i==j){
-            return nums[i];
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i] = A[i];
+            for (int j = i + 1; j < n; j++)
+                dp[j] = Math.max(A[i] - dp[j], A[j] - dp[j - 1]);
         }
 
-        // take left
-        int takeLeft=nums[i]-solve(nums,i+1,j);
-        
-        // take right
-        int takeRight=nums[j]-solve(nums,i,j-1);
-
-        // current player choose best option
-        return Math.max(takeLeft,takeRight);
+        return dp[n - 1] >= 0;
     }
 }
