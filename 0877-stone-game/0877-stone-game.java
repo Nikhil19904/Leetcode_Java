@@ -1,40 +1,24 @@
+//translated by AI
 class Solution {
-
     public boolean stoneGame(int[] piles) {
-
         int n = piles.length;
+        int[][] dp = new int[n][n];
 
-        Integer[][] dp =
-                new Integer[n][n];
-
-        int diff =
-            solve(piles,0,n-1,dp);
-
-        return diff > 0;
-    }
-
-    private int solve(int[] piles,
-                      int i,
-                      int j,
-                      Integer[][] dp){
-
-        if(i==j){
-            return piles[i];
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = piles[i];
         }
 
-        if(dp[i][j]!=null){
-            return dp[i][j];
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i + len - 1 < n; i++) {
+                int j = i + len - 1;
+
+                int takeLeft = piles[i] - dp[i + 1][j];
+                int takeRight = piles[j] - dp[i][j - 1];
+
+                dp[i][j] = Math.max(takeLeft, takeRight);
+            }
         }
 
-        int left =
-            piles[i] -
-            solve(piles,i+1,j,dp);
-
-        int right =
-            piles[j] -
-            solve(piles,i,j-1,dp);
-
-        return dp[i][j] =
-               Math.max(left,right);
+        return dp[0][n - 1] > 0;
     }
 }
