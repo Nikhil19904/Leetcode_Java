@@ -1,62 +1,34 @@
 class Solution {
-
     public String stoneGameIII(int[] stoneValue) {
 
-        Integer[] dp = new Integer[stoneValue.length];
+        int n = stoneValue.length;
 
-        int diff = solve(0, stoneValue, dp);
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, Integer.MIN_VALUE);
 
-        if (diff > 0) {
-            return "Alice";
-        } else if (diff < 0) {
-            return "Bob";
+        dp[n] = 0;
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            int take = 0;
+
+            for (int k = 0; k < 3 && i + k < n; k++) {
+
+                take += stoneValue[i + k];
+
+                dp[i] = Math.max(
+                    dp[i],
+                    take - dp[i + k + 1]
+                );
+            }
         }
+
+        if (dp[0] > 0)
+            return "Alice";
+
+        if (dp[0] < 0)
+            return "Bob";
 
         return "Tie";
-    }
-
-    private int solve(int idx, int[] stoneValue, Integer[] dp) {
-
-        // Base Case
-        if (idx >= stoneValue.length) {
-            return 0;
-        }
-
-        // Already Computed
-        if (dp[idx] != null) {
-            return dp[idx];
-        }
-
-        // Option 1: Take 1 stone
-        int option1 =
-                stoneValue[idx]
-                - solve(idx + 1, stoneValue, dp);
-
-        // Option 2: Take 2 stones
-        int option2 = Integer.MIN_VALUE;
-
-        if (idx + 1 < stoneValue.length) {
-
-            option2 =
-                    stoneValue[idx]
-                    + stoneValue[idx + 1]
-                    - solve(idx + 2, stoneValue, dp);
-        }
-
-        // Option 3: Take 3 stones
-        int option3 = Integer.MIN_VALUE;
-
-        if (idx + 2 < stoneValue.length) {
-
-            option3 =
-                    stoneValue[idx]
-                    + stoneValue[idx + 1]
-                    + stoneValue[idx + 2]
-                    - solve(idx + 3, stoneValue, dp);
-        }
-
-        return dp[idx] =
-                Math.max(option1,
-                Math.max(option2, option3));
     }
 }
